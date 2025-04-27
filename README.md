@@ -1,6 +1,10 @@
 # fabric-history-v6
 
-History (undo/redo) implementation for Fabric.js 6.x
+<a href="./README_CN.md">中文readme</a>
+
+History (undo/redo) implementation for Fabric.js 6.x<br>
+This project is based on <a href="https://github.com/alimozdemir/fabric-history">alimozdemir/fabric-history</a>
+
 
 ## Installation
 

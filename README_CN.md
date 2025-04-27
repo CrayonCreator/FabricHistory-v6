@@ -1,6 +1,8 @@
 # fabric-history-v6
 
-Fabric.js 6.x 版本的历史记录（撤销/恢复）实现
+
+Fabric.js 6.x 版本的历史记录（撤销/恢复）实现<br>
+本项目参考了<a href="https://github.com/alimozdemir/fabric-history">alimozdemir/fabric-history</a>
 
 ## 安装
 

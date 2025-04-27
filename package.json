@@ -14,7 +14,11 @@
     "redo",
     "canvas"
   ],
-  "author": "",
+  "author": "https://github.com/CrayonCreator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CrayonCreator/FabricHistory-v6.git"
+  },
   "license": "MIT",
   "peerDependencies": {
     "fabric": "^6.0.0"
