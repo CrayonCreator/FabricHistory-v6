@@ -228,5 +228,3 @@ export const HistoryMixin = Base =>
       });
     }
   };
-
-export { CanvasWithHistory, StaticCanvasWithHistory } from './canvas-with-history.js';
