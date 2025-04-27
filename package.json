@@ -1,6 +1,6 @@
 {
   "name": "fabric-history-v6",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fabric.js 6 撤销/恢复历史记录实现",
   "main": "src/index.js",
   "type": "module",
