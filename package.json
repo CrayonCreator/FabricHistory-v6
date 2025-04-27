@@ -1,0 +1,27 @@
+{
+  "name": "fabric-history-v6",
+  "version": "1.0.0",
+  "description": "Fabric.js 6 撤销/恢复历史记录实现",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fabric.js",
+    "history",
+    "undo",
+    "redo",
+    "canvas"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "fabric": "^6.0.0"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "README_CN.md"
+  ]
+}
