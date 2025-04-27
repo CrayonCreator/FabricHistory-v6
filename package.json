@@ -21,7 +21,7 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "fabric": "^6.0.0"
+    "fabric": "^6.0.0-beta18 || ^6.0.0"
   },
   "files": [
     "src",
